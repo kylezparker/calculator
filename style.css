@@ -1,0 +1,15 @@
+body{
+    font-size:15px;
+    letter-spacing:2px;
+    word-spacing:2px;
+    font-weight:500;
+}
+.sign{
+    font-size:20px;
+    color:red;
+    font-weight:700;
+}
+#results{
+    color:green;
+    font-weight:1000;
+}
